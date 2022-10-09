@@ -3,7 +3,7 @@ Retro Bowl 2 is an American style football game created by New Star Games. Are y
 
 # Subscribe To **RandomGoBurrr ツ** On youtube for Future updates and leaks Link Below:
 
-Play at: https://techarb2s.github.io/
+Play at: https://techarb2.github.io/
 
 # Future Updates 
 #1 More Uniforms/Helments
