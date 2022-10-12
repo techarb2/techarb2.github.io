@@ -1,5 +1,5 @@
 msg_Update	Thank you for updating Retro Bowl!##17 game schedules will kick in when you start a new season and you can now change the height of a pass by tapping the screen with a second finger whilst aiming.##I hope you like it! - Simon
-ui_NewStarGames	New Star Games
+ui_NewStarGames	Techa | Ingrain Network
 ui_Back	Back
 ui_Home	Home
 ui_Dilemma	Dilemma
